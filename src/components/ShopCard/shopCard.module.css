@@ -1,0 +1,42 @@
+.card {
+    width: 250px;
+    height: 310px;
+    border: 1px solid rgb(108, 108, 108);
+    margin: 10px;
+    font-family: Tahoma, sans-serif;
+}
+
+.h3 {
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.p {
+    text-align: center;
+}
+
+.img {
+    display: block;
+    width: 180px;
+    height: 180px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.price-field {
+  display: flex;
+  padding-left: 30px;
+  padding-right: 30px;
+  justify-content: space-between;
+}
+
+.price{
+  color: red;
+}
+
+.btn{
+  color: red;
+  border: 1px solid red;
+  border-radius: 10px;
+  cursor: pointer;
+}

@@ -1,0 +1,11 @@
+.field-cards{
+  display: flex;
+  flex-wrap: wrap;
+  width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.li {
+  list-style-type: none;
+}

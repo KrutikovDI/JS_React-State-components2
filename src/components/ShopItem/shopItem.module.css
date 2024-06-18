@@ -1,0 +1,28 @@
+.field-item{
+  height: 130px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.img{
+  height: 150px;
+}
+
+.name{
+  font-size: 22px;
+}
+
+.price{
+  color: red;
+  font-size: 18px;
+}
+
+.btn{
+  color: red;
+  height: 40px;
+  border: 1px solid red;
+  border-radius: 50px;
+  cursor: pointer;
+}
